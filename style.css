@@ -2,6 +2,10 @@ body {
   background-color: rgb(210, 255, 100);
 }
 
+#banner {
+  width: 1050px;
+}
+
 #nav-table {
   background-color: rgb(121, 210, 166); 
   width: 1040px;
