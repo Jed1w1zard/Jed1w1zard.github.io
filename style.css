@@ -2,6 +2,10 @@ body {
   background-color: rgb(210, 255, 100);
 }
 
+h1 {
+  font-family: "Gill Sans", sans-serif;
+}
+
 #banner {
   width: 1041px;
 }
