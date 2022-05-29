@@ -5,6 +5,11 @@ body {
 h1 {
   font-family: "Gill Sans", sans-serif;
   font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: "Gill Sans", sans-serif;
 }
 
 #banner {
