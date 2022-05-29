@@ -10,6 +10,7 @@ h1 {
 
 p {
   font-family: "Gill Sans", sans-serif;
+  width: 1000px;
 }
 
 #banner {
@@ -23,4 +24,9 @@ p {
 
 #nav-button {
   width: 340px; text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
